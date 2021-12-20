@@ -1,6 +1,6 @@
  I’m @SaubhagyaDeep
   <h3 align="center">👋 Hi, I'm @SaubhagyaDeep</h3>
-  <h3 align="center">A passionate backend developer from India</h3>
+  <h3 align="center">A passionate ML and Data Science rookie from India</h3>
 
 - 👀 I’m interested  in ML and Data Science 
 - 🌱 I’m here to contribute and learn in this field.
