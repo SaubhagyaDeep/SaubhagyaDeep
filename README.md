@@ -1,5 +1,5 @@
   <h3 align="center">👋 Hi, I'm @SaubhagyaDeep</h3>
-  <h3 align="center">I am a defender of Digital Assets </h3>
+  <h3 align="center">I am a Defender of Digital Assets </h3>
 
 - 👀 I’m interested  in Security Research
 - 🌱 I’m here to contribute and learn in this field and create a niche for myself in the industry.
